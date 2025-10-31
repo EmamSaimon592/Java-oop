@@ -43,3 +43,42 @@ Below is a complete, beginner-to-intermediate guide to Java OOP (Object-Oriented
 
 ---
 
+# Access Modifiers
+
+<table border="1" style="border-collapse: collapse; border: 1px solid black ;">
+<tr>
+    <th>Modifier</th>
+    <th>Class</th>
+    <th>Package</th>
+    <th>Subclass</th>
+    <th>World</th>
+</tr>
+<tr>
+   <td>Public</td>
+   <td>✅</td>
+   <td>✅</td>
+   <td>✅</td>
+   <td>✅</td>
+</tr>
+<tr>
+   <td>protected</td>
+   <td>✅</td>
+   <td>✅</td>
+   <td>✅</td>
+   <td>❌</td>
+</tr>
+<tr>
+   <td>private</td>
+   <td>✅</td>
+   <td>❌</td>
+   <td>❌</td>
+   <td>❌</td>
+</tr>
+<tr>
+   <td>default</td>
+   <td>✅</td>
+   <td>✅</td>
+   <td>❌</td>
+   <td>❌</td>
+</tr>
+</table>
