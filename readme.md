@@ -82,3 +82,6 @@ Below is a complete, beginner-to-intermediate guide to Java OOP (Object-Oriented
    <td>❌</td>
 </tr>
 </table>
+
+### The end
+---- 
