@@ -11,7 +11,7 @@ Below is a complete, beginner-to-intermediate guide to Java OOP (Object-Oriented
 
 <tr>
     <td>Class</td>
-    <td>Blueprint for objects</td>
+    <td>Blueprint for objects [java] </td>
     <td>Reusability</td>
 </tr>
 <tr>
